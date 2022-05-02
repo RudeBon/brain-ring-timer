@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brain-ring-timer/static/css/main.a822154a.css",
+    "main.js": "/brain-ring-timer/static/js/main.ba9d8290.js",
+    "index.html": "/brain-ring-timer/index.html",
+    "main.a822154a.css.map": "/brain-ring-timer/static/css/main.a822154a.css.map",
+    "main.ba9d8290.js.map": "/brain-ring-timer/static/js/main.ba9d8290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a822154a.css",
+    "static/js/main.ba9d8290.js"
+  ]
+}
